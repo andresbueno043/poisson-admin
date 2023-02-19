@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/poisson-admin/static/css/main.244e23b8.css",
+    "main.js": "/poisson-admin/static/js/main.1e22ae15.js",
+    "index.html": "/poisson-admin/index.html",
+    "main.244e23b8.css.map": "/poisson-admin/static/css/main.244e23b8.css.map",
+    "main.1e22ae15.js.map": "/poisson-admin/static/js/main.1e22ae15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.244e23b8.css",
+    "static/js/main.1e22ae15.js"
+  ]
+}
