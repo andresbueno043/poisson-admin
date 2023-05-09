@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/poisson-admin/static/css/main.244e23b8.css",
-    "main.js": "/poisson-admin/static/js/main.1e22ae15.js",
+    "main.css": "/poisson-admin/static/css/main.45284c53.css",
+    "main.js": "/poisson-admin/static/js/main.c01433a2.js",
     "index.html": "/poisson-admin/index.html",
-    "main.244e23b8.css.map": "/poisson-admin/static/css/main.244e23b8.css.map",
-    "main.1e22ae15.js.map": "/poisson-admin/static/js/main.1e22ae15.js.map"
+    "main.45284c53.css.map": "/poisson-admin/static/css/main.45284c53.css.map",
+    "main.c01433a2.js.map": "/poisson-admin/static/js/main.c01433a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.244e23b8.css",
-    "static/js/main.1e22ae15.js"
+    "static/css/main.45284c53.css",
+    "static/js/main.c01433a2.js"
   ]
 }
